@@ -1,22 +1,27 @@
 {
     "name": "KTO",
     "description": "mod package with friendly",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Lucas-UFU/KTO-ModPack/",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1900",
-        "Azumatt-BetterWards-1.8.0",
         "RandyKnapp-EquipmentAndQuickSlots-2.0.14",
-        "ValheimPlus-ValheimPlus-9.9.8",
-        "damnsneaker-QuickStack-0.6.6",
-        "Smoothbrain-PassivePowers-1.0.3",
-        "thedefside-BetterUI_Reforged-2.2.1",
-        "Smoothbrain-DualWield-1.0.0",
+        "denikson-BepInExPack_Valheim-5.4.1900",
+        "Smoothbrain-CreatureLevelAndLootControl-4.4.8",
+        "bdew-QuickConnect-1.4.0",
         "ValheimModding-Jotunn-2.6.4",
+        "MSchmoecker-VNEI-0.6.3",
         "RockerKitten-BoneAppetit-3.0.4",
         "Frenvius-Valharvest-2.0.1",
-        "bdew-QuickConnect-1.4.0",
-        "MSchmoecker-VNEI-0.6.3",
-        "Smoothbrain-CreatureLevelAndLootControl-4.4.8"
+        "Smoothbrain-DualWield-1.0.0",
+        "thedefside-BetterUI_Reforged-2.2.1",
+        "Smoothbrain-PassivePowers-1.0.3",
+        "damnsneaker-QuickStack-0.6.6",
+        "ValheimPlus-ValheimPlus-9.9.8",
+        "Azumatt-BetterWards-1.8.0",
+        "Smoothbrain-Groups-1.1.8",
+        "virtuaCode-TrashItems-1.2.4",
+        "Smoothbrain-Network-1.0.1",
+        "Smoothbrain-SteadyRegeneration-1.0.0",
+        "Nexus-InstantMonsterLootDrop-0.2.11"
     ]
 }
