@@ -2,7 +2,7 @@
     "name": "KTO ModPackage",
     "description": "mod package with friendly",
     "version_number": "1.0.0",
-    "website_url": "http://google.com/",
+    "website_url": "https://github.com/Lucas-UFU/KTO-ModPack/",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1900",
         "Azumatt-BetterWards-1.8.0",
