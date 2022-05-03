@@ -1,0 +1,9 @@
+{
+    "name": "Fantasy_Armoury",
+    "version_number": "0.0.7",
+    "website_url": "https://discord.gg/7BcEZXhRbV",
+    "description": "Adds 33 fantasy themed Weapons and 9 Shields.",
+    "dependencies": [ 
+		"ValheimModding-Jotunn-2.4.10"
+		]
+}
