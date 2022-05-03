@@ -1,7 +1,7 @@
 {
     "name": "KTO",
     "description": "mod package with friendly",
-    "version_number": "1.0.11",
+    "version_number": "1.0.12",
     "website_url": "https://github.com/Lucas-UFU/KTO-ModPack/",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1900",
@@ -33,6 +33,8 @@
         "TJzilla-BepInEx_ConfigurationManager-16.1.2",
         "ComfyMods-LetMePlay-1.3.1",
         "AeehyehssReeper-ChaosArmor-9.0.6",
-        "Azumatt-PvPAlwaysOn-1.0.0"
+        "Azumatt-PvPAlwaysOn-1.0.0",
+        "Azumatt-AzuAntiCheat-1.6.0",
+        "ishid4-BetterArchery-1.7.6"
     ]
 }
