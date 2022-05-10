@@ -1,7 +1,7 @@
 {
     "name": "KTO",
     "description": "mod package with friendly",
-    "version_number": "1.0.14",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/Lucas-UFU/KTO-ModPack/",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1900",
@@ -38,7 +38,8 @@
         "Advize-PlantEverything-1.11.2",
         "OdinPlus-BuildIt-1.3.1",        
         "ValheimModding-HookGenPatcher-0.0.3",
-        "abearcodes-SimpleRecycling-0.0.13",
-        "Nexus-FarmGrid-0.2.0"
+        "OdinPlus-ChickenBoo-2.1.3",
+        "OdinPlus-PlantIt-0.1.5",
+        "remmiz-SimpleRecycling_Fixed-0.0.15"
     ]
 }
