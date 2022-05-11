@@ -1,7 +1,7 @@
 {
     "name": "KTO",
     "description": "mod package with friendly",
-    "version_number": "1.1.2",
+    "version_number": "1.1.3",
     "website_url": "https://github.com/Lucas-UFU/KTO-ModPack/",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1900",
@@ -49,6 +49,8 @@
         "OdinPlus-OdinHorse-0.3.2",
         "ontrigger-ValheimPerformanceOptimizations-0.7.6",
         "OdinPlus-OdinArchitect-0.1.3",
-        "nDeavor-PlantAnywhere-0.0.3"
+        "nDeavor-PlantAnywhere-0.0.3",
+        "MathiasDecrock-PlanBuild-0.9.5",
+        "RagnarokHCRP-MoreGates-1.0.11"
     ]
 }
